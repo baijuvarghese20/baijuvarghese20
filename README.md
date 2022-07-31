@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BAiju Varghese
+- 👋 Hi, I’m Baiju Varghese
 - 👀 I’m interested in Android development 
 - 🌱 I’m currently working as a estimaton engineer
 - 💞️ I’m looking to collaborate on GitHub meets
